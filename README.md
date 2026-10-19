@@ -1,12 +1,12 @@
-# Name: 
+# Name: Jayme Cherry 
 
 ## About Me
-* School Email: 
-* Dream Career: 
-* Hidden Talent: 
+* School Email:  cherryj3380@durhamtech.edu
+* Dream Career: software engineer
+* Hidden Talent: recreating anything I see
 
 ## Course Information
-* Semester: 
+* Semester: Term B Fall 2026
 * Course Name: CSC 118 - Swift Fundamentals I
 * Institution: [Durham Technical Community College](https://www.durhamtech.edu/)
 * Textbook: [Develop in Swift Fundamentals Xcode 15](https://books.apple.com/us/book/develop-in-swift-fundamentals/id6468967906)
