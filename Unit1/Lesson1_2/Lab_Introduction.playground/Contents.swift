@@ -12,11 +12,16 @@ print("How to use playgrounds to make writing Swift fun and simple")
 /*:
  Now print your own phrases to the console. Pick one of your favorite songs. Use your knowledge of the `print` function to display the song title and artist.
  */
-
-
+print("Georgia Peach by Latto")
+print("Independent by Webbie")
+print("The Boss by Rick Ross")
+print("Summers Over Interlude by Drake")
 /*:
  Use multiple `print` functions to write out some of the lyrics to the song.
  */
-
+print("Georgia peach, put me somewhere on a gorgeous beach")
+print("She like to go to the mall everyday for a outfit")
+print("Im the biggest boss that you seen thus far")
+print("Days in the sun and nights in the rain, summer is over simple and plain")
 
 //:page 14 of 16  |  [Next: Exercise: Go! Fight! Win!](@next)
