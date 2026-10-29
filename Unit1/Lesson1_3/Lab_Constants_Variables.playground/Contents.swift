@@ -8,24 +8,27 @@ print(friends)
 /*:
  Now assume you go through and remove a lot of your friends that aren't active on social media. Update your `friends` constant to a lower number than it currently is between 1 and 900.
  */
+let friends = 675
+print(friends)
 /*:
  Does the above code compile? Why not? Print your explanation to the console using the `print` function. Go back and delete your line of code that updates the `friend` constant to a lower number so that the playground will compile properly.
  
- /* Invaild relocation of friends */
+ /* Invaild redeclaration of friends */
 
 
 /*
  Declare a variable `age` and set it to your own age. Print `age` to the console.
- */
-var age = 28
+ 
+ var age = 28
  print(age)
  
+ */
 
 /*
  Now pretend you just had a birthday, and update the `age` variable accordingly. Print `age` to the console.
  */
 age = 29
- print(age)
+print(age)
  
 /*
  
