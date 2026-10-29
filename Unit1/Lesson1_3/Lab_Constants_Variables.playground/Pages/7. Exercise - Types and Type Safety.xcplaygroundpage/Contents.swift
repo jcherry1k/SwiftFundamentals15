@@ -14,13 +14,13 @@ print("No, it does not compile. Cannot assign vale of type 'Bool' to type 'Doubl
  
 //:  Declare a variable and give it a string value. Then try to assign it to `firstDecimal`. Does it compile? Print a statement to the console explaining why not, and remove the line of code that will not compile.
 
-var someThing: string = something
+var someThing:String = "Something"
 firstDecimal = someThing
 print("it does not compile. cannot assign text to a variable expecting a decimal number")
 
 //:  Finally, declare a variable with a whole number value. Then try to assign it to `firstDecimal`. Why won't this compile even though both variables are numbers? Print a statement to the console explaining why not, and remove the line of code that will not compile.
 
-var number: int = 10
+var number:int = 10
 firstDecimal = number
 print("int aren't automatically converted into a double.")
 
