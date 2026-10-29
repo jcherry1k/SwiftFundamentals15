@@ -7,7 +7,7 @@
 
 
 //:  Now assign a value to `name`, and print it to the console.
-var name: string = Jayme
+var name:String = Jayme
 print(name)
 
 //:  Declare a variable called `distanceTraveled` and set it to 0. Do not give it an explicit type.
