@@ -10,6 +10,11 @@ struct RunningWorkout {
     var time: Double
     var elevation: Double
     
+    func postWorkoutStats() {
+            print("Workout complete! You ran \(distance) meters in \(time) minutes and gained \(elevation) meters of elevation.")
+        }
+    
+    
 }
 
 
@@ -20,7 +25,13 @@ struct Steps {
     
 }
 
+let todaysWorkout = RunningWorkout(
+    distance: 2396,
+    time: 15.3,
+    elevation: 94
+)
 
+todaysWorkout.postWorkoutStats()
 /*:
 [Previous](@previous)  |  page 6 of 10  |  [Next: Exercise - Computed Properties and Property Observers](@next)
  */
